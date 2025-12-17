@@ -5,7 +5,8 @@ const QRGenerator = () => {
   const [showQR, setShowQR] = useState(false);
 
   // En producción usa Vercel, en desarrollo usa localhost
-  const currentURL = import.meta.env.PROD
+  const isProduction = window.location.hostname !== "localhost";
+  const currentURL = isProduction
     ? "https://landing-love-gamma.vercel.app"
     : window.location.origin;
 

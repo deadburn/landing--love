@@ -22,76 +22,76 @@ como mi cuadrito el que nunca terminé porque no termine de conectar con mi part
   // AQUÍ VAS A PONER LAS RUTAS DE TUS FOTOS CON COMENTARIOS
   const photos = [
     {
-      url: "/public/imagen1.jpg",
+      url: "/photos/imagen1.jpg",
       comment: "Una de las tantas veces que te he visto ser ganadora",
     },
     {
-      url: "/public/imagen2.jpg",
+      url: "/photos/imagen2.jpg",
       comment: "Uno de esos viajes que nos recuperaron",
     },
     {
-      url: "/public/imagen3.jpg",
+      url: "/photos/imagen3.jpg",
       comment:
         "Un viaje muy loco en el que te pude mostrar la tierrita que me vio crecer",
     },
     {
-      url: "/public/imagen4.jpg",
+      url: "/photos/imagen4.jpg",
       comment: "Una noche inolvidable por la intimidad que logramos",
     },
     {
-      url: "/public/imagen5.jpg",
+      url: "/photos/imagen5.jpg",
       comment:
         "Una de esas noches de risas interminables (Fuimos a lokillo jaja)",
     },
     {
-      url: "/public/imagen6.jpg",
+      url: "/photos/imagen6.jpg",
       comment:
         "Uno de los cumpleaños en los que me senti mas querido gracias a ti",
     },
     {
-      url: "/public/imagen7.jpg",
+      url: "/photos/imagen7.jpg",
       comment:
         "No es la mejor foto, pero la espontaneidad de ese momento no la podemos comparar",
     },
     {
-      url: "/public/imagen8.jpg",
+      url: "/photos/imagen8.jpg",
       comment:
         "No hay palabras suficientes que me ayuden a describir todo lo que logro este viaje en mi y en nosotros",
     },
     {
-      url: "/public/imagen9.jpg",
+      url: "/photos/imagen9.jpg",
       comment:
         "Una foto que me recuerda que desde el inicio nos unio el movimiento, lo cual nos definio por gran parte de la relacion",
     },
     {
-      url: "/public/imagen10.jpg",
+      url: "/photos/imagen10.jpg",
       comment: "Nunca...",
     },
     {
-      url: "/public/imagen11.jpg",
+      url: "/photos/imagen11.jpg",
       comment: " Pares...",
     },
     {
-      url: "/public/imagen12.jpg",
+      url: "/photos/imagen12.jpg",
       comment:
         "De correr y perseguir tus metas.. Eres una mujer tan fuerte y capaz que nada te queda grande. NADA",
     },
     {
-      url: "/public/imagen13.jpg",
+      url: "/photos/imagen13.jpg",
       comment: "Una foto del entorno que nos vio nacer como pareja (El gym)",
     },
     {
-      url: "/public/imagen14.jpg",
+      url: "/photos/imagen14.jpg",
       comment:
         "El dia que conocimos el que se convertiria en mi sitio de brunch favorito (Se que ya no sera igual)",
     },
     {
-      url: "/public/imagen15.jpg",
+      url: "/photos/imagen15.jpg",
       comment:
         "Uno de esos tantos dias que te segui la cuerda y termine amandolo",
     },
     {
-      url: "/public/imagen16.jpg",
+      url: "/photos/imagen16.jpg",
       comment:
         "Por ultimo pero no menos importante.. Feliz Navidad Maura. Gracias por todo lo que me diste y enseñaste. Te deseo lo mejor del mundo.",
     },
