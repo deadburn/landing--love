@@ -3,7 +3,11 @@ import { useState } from "react";
 
 const QRGenerator = () => {
   const [showQR, setShowQR] = useState(false);
-  const currentURL = window.location.origin;
+
+  // En producción usa Vercel, en desarrollo usa localhost
+  const currentURL = import.meta.env.PROD
+    ? "https://landing-love-gamma.vercel.app"
+    : window.location.origin;
 
   const downloadQR = () => {
     const svg = document.querySelector(".qr-code svg");
