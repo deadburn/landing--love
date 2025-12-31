@@ -12,7 +12,7 @@ function App() {
         <div className="landing-page">
           <div className="content-wrapper">
             <div className="header">
-              <h1 className="title">Cosas que nunca te dije</h1>
+              <h1 className="title">Cosas que nunca te he dicho</h1>
               <p className="subtitle">Una carta guardada en el corazón</p>
             </div>
 
@@ -21,9 +21,8 @@ function App() {
             <div className="intro-section">
               <p className="intro-text">
                 Hay momentos en la vida donde las palabras se quedan atrapadas
-                en el pecho. Esta "carta" es un intento de liberar esos
-                sentimientos. Porque siento que mereces entender que no fuiste
-                un error en mi vida.
+                en el pecho. Esta "carta" es un intento de liberar esos sentimientos.
+                Porque siento que mereces entender que no fuiste un error en mi vida.
               </p>
             </div>
 
