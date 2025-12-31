@@ -5,14 +5,14 @@
 }
 
 :root {
-  --color-primary: #ffd4a3;
-  --color-secondary: #ffe5b4;
-  --color-accent: #ffdab9;
-  --color-light: #fff8f0;
-  --color-text: #5c4033;
-  --color-text-light: #8b6f47;
-  --color-button: #ffbd88;
-  --color-button-hover: #ffa361;
+  --color-primary: #e8b4d4;
+  --color-secondary: #f0d4e8;
+  --color-accent: #d4a5c4;
+  --color-light: #faf5f8;
+  --color-text: #5a4a54;
+  --color-text-light: #8b7a85;
+  --color-button: #e5a8cd;
+  --color-button-hover: #d88aba;
 }
 
 body {

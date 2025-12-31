@@ -12,17 +12,21 @@ function App() {
         <div className="landing-page">
           <div className="content-wrapper">
             <div className="header">
-              <h1 className="title">Cosas que nunca te he dicho</h1>
-              <p className="subtitle">Una carta guardada en el corazón</p>
+              <h1 className="title">¡Lo que te amo!</h1>
+              <p className="subtitle">Una carta guardadadita en el corazón</p>
             </div>
 
             <div className="decorative-element"></div>
 
             <div className="intro-section">
               <p className="intro-text">
-                Hay momentos en la vida donde las palabras se quedan atrapadas
-                en el pecho. Esta "carta" es un intento de liberar esos sentimientos.
-                Porque siento que mereces entender que no fuiste un error en mi vida.
+                Hola Maura, antes de que abras esta carta, quiero que sepas que
+                te amo. Eres una de las personas mas importantes en mi vida y
+                cada momento que hemos compartido este año, es increible para
+                mi. Te atesoro en mi corazon y con ello todas las experiencias
+                que nos han llevado a ser quienes somos. Con mucho amor y
+                dedicacion, espero que disfrutes estas palabras y este viaje a
+                traves de nuestros recuerdos juntos.
               </p>
             </div>
 
